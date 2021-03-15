@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VMVDEUS
 - 👀 I’m interested in music, culture, languages, blockchain & freedom.
 - 🌱 I’m currently learning multilingual communication technologies.
-- 💞️ I’m looking to collaborate on local blockchain projects using my languages, my financial and my communication technologies skills.
+- 💞️ I’m looking to collaborate on blockchain projects joining my languages, my skills in finance and my recently acquired communication technology skills.
 - 📫 How to reach me ...
 
 <!---
