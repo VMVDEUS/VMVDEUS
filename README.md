@@ -1,5 +1,5 @@
 # About me 
- ![cryptoPunk](https://github.com/VMVDEUS/VMVDEUS.github.io/blob/main/EvX_OPzXYAIxe8b.png_large)
+ ![cryptoPunk6634](https://github.com/VMVDEUS/VMVDEUS.github.io/blob/main/cryptoPunk%236634.webp)
 
 - 👋 Hi, I’m **@VMVDEUS**
 ---
