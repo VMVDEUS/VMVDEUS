@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, culture, languages, blockchain & freedom. I speak french, german, spanish and english.
 - 🌱 I’m currently studying multilingual communication technologies.
 - 💞️ I’m looking to collaborate on blockchain projects joining my languages, my knowledge in finance and my recently acquired communication technology skills.
-- 📫 How to reach me ...
+- 📫 Reach out to me! [title](adrien.dubied@etu.unige.ch)
 
 <!---
 VMVDEUS/VMVDEUS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
