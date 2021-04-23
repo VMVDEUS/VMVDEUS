@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on blockchain projects joining my languages, my knowledge in finance and my recently acquired communication technology skills.
 - 📫 Reach out to me! 
           [adrien.dubied@etu.unige.ch](adrien.dubied@etu.unige.ch)
-          	---
+---
 
 <!---
 VMVDEUS/VMVDEUS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
