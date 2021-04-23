@@ -1,5 +1,5 @@
 # About me 
- ![cryptoPunk924](punk0924.png)
+ ![cryptoPunk924](https://github.com/VMVDEUS/VMVDEUS.github.io/blob/main/punk0924.png)
  *CryptoPunk 924 by Larva Labs*
 
 - 👋 Hi, I’m **@VMVDEUS**
