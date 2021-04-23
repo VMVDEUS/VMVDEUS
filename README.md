@@ -1,12 +1,12 @@
-# About me
+# About me ![alt text](image.jpg)
 
 - 👋 Hi, I’m **@VMVDEUS**
 ---
-- 👀 I’m interested in music, **culture**, languages, blockchain & **freedom**. I speak french, german, spanish and english.
+- 👀 I’m interested in music, **culture**, **languages**, **blockchain** & **freedom**. I speak french, german, spanish and english.
 ---
 - 🌱 I’m currently studying multilingual communication technologies.
 ---
-- 💞️ I’m looking to **collaborate on blockchain projects** joining my languages, my knowledge in finance and my recently acquired skills in **communication technologes**.
+- 💞️ I’m looking to **collaborate on blockchain projects** joining my languages, my knowledge in finance and my recently acquired skills in communication technologes.
 ---
 - 📫 Reach out to me! [adrien.dubied@etu.unige.ch](adrien.dubied@etu.unige.ch)
 ---
