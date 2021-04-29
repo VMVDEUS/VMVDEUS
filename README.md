@@ -8,7 +8,7 @@
 ---
 - 🌱 I’m currently studying multilingual communication technologies.
 ---
-- 💞️ I’m looking to collaborate on blockchain projects joining my languages, my knowledge in finance and my recently acquired skills in communication technologes.
+- 💞️ I’m looking to collaborate on blockchain projects joining my languages, my knowledge in finance and my recently acquired skills in communication technologies.
 ---
 - 📫 Reach out to me! [adrien.dubied@etu.unige.ch](adrien.dubied@etu.unige.ch)
 ---
